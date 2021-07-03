@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tAntiOP:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/tAntiOP_jar</output-path>
+    <root id="archive" name="tAntiOP.jar">
+      <element id="module-output" name="tAntiOP" />
+    </root>
+  </artifact>
+</component>

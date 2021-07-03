@@ -1,0 +1,11 @@
+Anti-OP:
+  enable: true
+  
+Anti-Permission:
+  enable: true
+  permission: '*'
+    
+Command-execute:
+ - deop %args-1%
+  
+List: {}

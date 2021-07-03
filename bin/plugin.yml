@@ -1,0 +1,7 @@
+name: tAnti-OP
+main: net.helydev.com.Antiop
+version: 1.0
+author: ByJoako
+commands:
+  antiop:
+    aliases: [aop]

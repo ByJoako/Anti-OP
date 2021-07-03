@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Spigot (1.7)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Src Puerca/lib/spigot/Spigot (1.7).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Src Puerca/lib/spigot/Spigot (1.7).jar!/" />
+    </SOURCES>
+  </library>
+</component>
